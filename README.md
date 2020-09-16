@@ -26,4 +26,5 @@ I'm Gustavo Bragança, based in Rio de Janeiro :brazil:, and I like Python, Data
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/gbraganca-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gbraganca/)  
-[![Twitter Badge](https://img.shields.io/badge/ga_braganca-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ga_braganca)
+[![Twitter Badge](https://img.shields.io/badge/ga_braganca-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ga_braganca)  
+[![Medium Badge](https://img.shields.io/badge/ga_braganca-follow%20on%20medium-black?style=for-the-badge&logo=medium)](https://medium.com/@ga.braganca)
